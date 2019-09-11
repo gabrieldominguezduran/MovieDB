@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieDB/static/css/main.990e593d.chunk.css",
+    "main.js": "/MovieDB/static/js/main.957db9c4.chunk.js",
+    "main.js.map": "/MovieDB/static/js/main.957db9c4.chunk.js.map",
+    "runtime~main.js": "/MovieDB/static/js/runtime~main.2d8d63db.js",
+    "runtime~main.js.map": "/MovieDB/static/js/runtime~main.2d8d63db.js.map",
+    "static/js/2.1be053b8.chunk.js": "/MovieDB/static/js/2.1be053b8.chunk.js",
+    "static/js/2.1be053b8.chunk.js.map": "/MovieDB/static/js/2.1be053b8.chunk.js.map",
+    "index.html": "/MovieDB/index.html",
+    "precache-manifest.e5629ace0e3d16e77b9d2c4bc54318a3.js": "/MovieDB/precache-manifest.e5629ace0e3d16e77b9d2c4bc54318a3.js",
+    "service-worker.js": "/MovieDB/service-worker.js",
+    "static/css/main.990e593d.chunk.css.map": "/MovieDB/static/css/main.990e593d.chunk.css.map"
+  }
+}
